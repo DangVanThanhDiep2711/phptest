@@ -32,6 +32,7 @@
     echo "<br>";
     print_r($list);
     $string ="apptech Ho Chi Minh";
+    echo "<br>";
     echo strlen($string);
     echo "<br>";
     echo strtoupper($string);
