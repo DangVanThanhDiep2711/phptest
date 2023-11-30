@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    $a=10;
+    $a=5;
         if($a==0){
            echo"true";
         }
@@ -20,7 +20,7 @@
         //     echo "false";
         // }
         echo "<br>";
-        echo $a<9?"hello":"goodbye";
+        echo $a<9?"Đúng":"Sai";
     ?>
 </body>
 </html>
